@@ -1,0 +1,11 @@
+C:\Users\vtrit\source\repos\TFSLaggingMigrationExample\TFS Migration Lagging\bin\Debug\netcoreapp2.1\TFS Migration Lagging.deps.json
+C:\Users\vtrit\source\repos\TFSLaggingMigrationExample\TFS Migration Lagging\bin\Debug\netcoreapp2.1\TFS Migration Lagging.runtimeconfig.json
+C:\Users\vtrit\source\repos\TFSLaggingMigrationExample\TFS Migration Lagging\bin\Debug\netcoreapp2.1\TFS Migration Lagging.runtimeconfig.dev.json
+C:\Users\vtrit\source\repos\TFSLaggingMigrationExample\TFS Migration Lagging\bin\Debug\netcoreapp2.1\TFS Migration Lagging.dll
+C:\Users\vtrit\source\repos\TFSLaggingMigrationExample\TFS Migration Lagging\obj\Debug\netcoreapp2.1\TFS Migration Lagging.csprojResolveAssemblyReference.cache
+C:\Users\vtrit\source\repos\TFSLaggingMigrationExample\TFS Migration Lagging\obj\Debug\netcoreapp2.1\TFS Migration Lagging.csproj.CoreCompileInputs.cache
+C:\Users\vtrit\source\repos\TFSLaggingMigrationExample\TFS Migration Lagging\obj\Debug\netcoreapp2.1\TFS Migration Lagging.AssemblyInfoInputs.cache
+C:\Users\vtrit\source\repos\TFSLaggingMigrationExample\TFS Migration Lagging\obj\Debug\netcoreapp2.1\TFS Migration Lagging.AssemblyInfo.cs
+C:\Users\vtrit\source\repos\TFSLaggingMigrationExample\TFS Migration Lagging\bin\Debug\netcoreapp2.1\TFS Migration Lagging.pdb
+C:\Users\vtrit\source\repos\TFSLaggingMigrationExample\TFS Migration Lagging\obj\Debug\netcoreapp2.1\TFS Migration Lagging.dll
+C:\Users\vtrit\source\repos\TFSLaggingMigrationExample\TFS Migration Lagging\obj\Debug\netcoreapp2.1\TFS Migration Lagging.pdb
